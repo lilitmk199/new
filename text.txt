@@ -6,3 +6,5 @@ test new
 
 another test
 
+test amend
+
