@@ -5,19 +5,6 @@ new lines added
 test new
 
 another test
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-new thinngs probably
-=======
->>>>>>> 302d4f6f04ae134d8875af3cd5148f74396328e5
->>>>>>> adb888a70e0b28dba680d4d83e14f714b7cc108e
 
 
-very-very-very-new
-
-
-new amend
-
+new zrtikner
