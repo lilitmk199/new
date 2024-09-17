@@ -5,5 +5,8 @@ new lines added
 test new
 
 another test
+<<<<<<< HEAD
 
 new thinngs probably
+=======
+>>>>>>> 302d4f6f04ae134d8875af3cd5148f74396328e5
